@@ -1,5 +1,3 @@
-# Fuenf Labs
+# .github
 
-A small SaaS and AI studio. We build and ship apps, fast.
-
-More at [fuenf.app](https://fuenf.app).
+Org profile page (`profile/README.md`) and org-wide shared GitHub defaults.
