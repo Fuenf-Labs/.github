@@ -1,4 +1,4 @@
-# Fuenf Labs
+# fuenf labs
 
 A small SaaS and AI studio. We build and ship apps, fast.
 
